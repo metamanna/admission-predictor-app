@@ -79,3 +79,5 @@ streamlit run aasignment7_admissionpredictor.py
 📤 Deployment
 Deploy the app for free using Streamlit Cloud:
 streamlit run aasignment7_admissionpredictor.py
+
+Streamlit app link: https://admission-predictor-app-gasu4evpvaojj26f2gvqpn.streamlit.app/
