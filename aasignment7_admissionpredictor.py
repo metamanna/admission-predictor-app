@@ -13,7 +13,7 @@ from sklearn.ensemble import RandomForestRegressor
 from xgboost import XGBRegressor
 from sklearn.ensemble import RandomForestRegressor
 
-df = pd.read_csv(r"E:\Celebal project\Assignment7\Admission_Predict.csv")
+df = pd.read_csv("Admission_Predict.csv")
 
 df.drop(columns=["Serial No."], inplace=True)
 
